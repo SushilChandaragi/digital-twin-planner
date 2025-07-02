@@ -1,10 +1,7 @@
----
-
 # Digital Twin Planner
 
 **Digital Twin Planner** is a web-based tool designed to facilitate the modeling, simulation, and management of digital twins for real-world systems. With a focus on usability, extensibility, and robust planning features, this project aims to empower users to create and manipulate digital representations of physical assets or processes.
 
----
 
 ## Features
 
